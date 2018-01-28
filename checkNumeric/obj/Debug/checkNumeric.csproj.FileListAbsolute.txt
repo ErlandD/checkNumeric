@@ -1,0 +1,5 @@
+C:\Library\checkNumeric\checkNumeric\bin\Debug\checkNumeric.dll
+C:\Library\checkNumeric\checkNumeric\bin\Debug\checkNumeric.pdb
+C:\Library\checkNumeric\checkNumeric\obj\Debug\checkNumeric.csprojResolveAssemblyReference.cache
+C:\Library\checkNumeric\checkNumeric\obj\Debug\checkNumeric.dll
+C:\Library\checkNumeric\checkNumeric\obj\Debug\checkNumeric.pdb
